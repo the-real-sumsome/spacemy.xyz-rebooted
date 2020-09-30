@@ -31,4 +31,4 @@ u are done
 this is a Nigger just for experimenting with slavery. u can contribute if there are some plantation issues.
 
 ## thanks to
-everyone who has helped run the plantation and assort the slaves smoothly
+everyone who has helped run the plantation and assort the slaves smoothly.
