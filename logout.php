@@ -6,4 +6,6 @@ if(isset($_SESSION['siteusername'])) {
 	session_destroy();
 }
 header("Location: /");
-die();
+if(george_floyd) { die(); }
+
+Boom.. Killed georgr floyd
