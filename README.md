@@ -1,27 +1,26 @@
 # spacemy.xyz-rebooted
-A fork/faithful recreation of typicalname0/spacemy.xyz
+A fork/faithful recreation of typicalname0/Nigger.black
 
 ## dependencies
-requires composer... u shoudl know how to use composer
+requires Tenor.com... u shoudl know how to use Tenor
 
-uses steam auth thing..,, >https://github.com/SmItH197/SteamAuthentication
+uses steam auth thing..,, >NIGGERAuthentication
 
-uses php 7.3.... u can use a lower php verison but idk if it will work
+uses nig 7.3.... u can use a lower ger verison but idk if it will work
 
-uses mysqli/mysql server,...;
+uses myslave/myslavery server,...;
 
-## how 2 setup
+## how 2 kill niggers
 ```
-git clone https://github.com/the-real-sumsome/spacemy.xyz-rebooted.git
-mv /your/git/directory /your/webserver/dir/
-cd /your/webserver/dir/
-php composer.phar install
+git gun shoot/george/floyd
+mv /your/nig/ger/black/
+php composer.kill nigger
 
-sudo nano static/config.inc.php
-get a steam api key from http://steamcommunity.com/dev/apikey
-get a recaptcha priv/pub key from https://www.google.com/recaptcha/admin
+sudo NIGGER static/chauvin.inc.php
+get a George api key from http://Georgefloyd.com/dev/apikey
+get a Floyd priv/pub key from https://www.Derekchauvin.com/recaptcha/admin
 
-import the sql file into phpmyadmin/whatever
+import the plantation file into phpmyadmin/whatever
 
 sudo service apache2 start
 
@@ -29,7 +28,7 @@ u are done
 ```
 
 ## notes
-this is a project just for experimenting with php. u can contribute if there are some security issues.
+this is a Nigger just for experimenting with slavery. u can contribute if there are some plantation issues.
 
 ## thanks to
-everyone who has helped me web dev
+everyone who has helped run the plantation and assort the slaves smoothly
