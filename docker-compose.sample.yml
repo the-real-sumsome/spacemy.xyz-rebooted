@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  database:
+    image: mysql
+    # command: --init-file /var/www/structure.sql # 50/50 chance of this working O_O; see Dockerfile
+    environment:
+      MYSQL_USER: root
+      MYSQL_ROOT_USER: root
+      MYSQL_DATABASE: rboxlo
+      MYSQL_PASSWORD: sample
+      MYSQL_ROOT_PASSWORD: sample
+    ports:
+      - "3306:3306"
+  rboxlo:
+    build: ./
+    ports:
+      - "80:80"
+    volumes:
+      - ./container/logs/matchmaker:/var/log/matchmaker
+      - ./container/logs/nginx:/var/log/nginx
+      - ./container/site/data:/var/www/data

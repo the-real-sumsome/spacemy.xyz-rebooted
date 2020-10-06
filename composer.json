@@ -1,7 +1,0 @@
-{
-    "require": {
-        "smith197/steamauthentication": "^4.0",
-        "erusev/parsedown": "^1.7",
-        "matthiasmullie/minify": "^1.3"
-    }
-}

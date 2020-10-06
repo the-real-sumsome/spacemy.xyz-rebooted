@@ -1,1 +1,0 @@
-<div class="footer"><small><center><a href="about.php">About</a> | <a href="faq.php">FAQ</a> | <a href="terms.php">Terms</a> | <a href="privacy.php">Privacy</a> | <a href="contact.php">Contact SpaceMy</a><br><small>&copy;2020-2020 SpaceMy.xyz.</center></small></div>
