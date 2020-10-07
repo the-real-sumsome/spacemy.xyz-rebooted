@@ -53,7 +53,7 @@
         <div class="container">
             <?php require($_SERVER['DOCUMENT_ROOT'] . "/static/header.php"); ?>
             <div class="padding">
-                <h1 id="noMargin">404.</h1><a href="/index.php">go back to index</a>
+                <h1 id="noMargin">Well, you're lost.</h1><a href="/index.php">Go back to the homepage</a>
             </div>
         </div>
         <br>
