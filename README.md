@@ -1,17 +1,17 @@
 # spacemy.xyz-rebooted
-A fork/faithful recreation of typicalname0/spacemy.xyz
+Just  fork/faithful recreation of typicalname0/spacemy.xyz
 
-## dependencies
-requires composer... u shoudl know how to use composer
+## Dependencies
+The PHP version is 7.3, you may try using an earlier PHP verison but I don't know if it works or not.
 
-uses steam auth thing..,, >https://github.com/SmItH197/SteamAuthentication
+It is based on MySQLi and MySQL Server.
 
-uses php 7.3.... u can use a lower php verison but idk if it will work
+It requires Composer... You should've know how to use Composer though.
 
-uses mysqli/mysql server,...;
+It also uses [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication)
 
-## how 2 setup
-```
+## How to Setup the Forums
+```sh
 git clone https://github.com/the-real-sumsome/spacemy.xyz-rebooted.git
 mv /your/git/directory /your/webserver/dir/
 cd /your/webserver/dir/
@@ -24,12 +24,13 @@ get a recaptcha priv/pub key from https://www.google.com/recaptcha/admin
 import the sql file into phpmyadmin/whatever
 
 sudo service apache2 start
-
-u are done
 ```
+You're done! Congratulations on being an awful copy cat trying to copy MY GITHUB FORK.
 
-## notes
-this is a project just for experimenting with php. u can contribute if there are some security issues.
+## Notes
+This is a project just for experimenting with PHP. You can help contribute if there are any security issues.
 
-## thanks to
-everyone who has helped me web dev
+If you're using this repository to start your own forums, you need to change some of the texts in the PHP files since it has the "spacemy.xyz" things.
+
+## Big Thanks
+To everyone who has helped me the development of spacemy.xyz-rebooted
