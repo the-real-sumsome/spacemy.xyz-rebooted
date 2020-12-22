@@ -1,16 +1,13 @@
 # spacemy.xyz-rebooted
 A fork/faithful recreation of typicalname0/spacemy.xyz
 
-## dependencies
-requires composer... u shoudl know how to use composer
+## Dependencies
+- Composer
+- [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication)
+- PHP >=7.3
+- MySQL
 
-uses steam auth thing..,, >https://github.com/SmItH197/SteamAuthentication
-
-uses php 7.3.... u can use a lower php verison but idk if it will work
-
-uses mysqli/mysql server,...;
-
-## how 2 setup
+## Setup
 ```
 git clone https://github.com/the-real-sumsome/spacemy.xyz-rebooted.git
 mv /your/git/directory /your/webserver/dir/
@@ -18,18 +15,15 @@ cd /your/webserver/dir/
 php composer.phar install
 
 sudo nano static/config.inc.php
-get a steam api key from http://steamcommunity.com/dev/apikey
-get a recaptcha priv/pub key from https://www.google.com/recaptcha/admin
-
-import the sql file into phpmyadmin/whatever
+# get a steam api key from http://steamcommunity.com/dev/apikey
+# get a recaptcha priv/pub key from https://www.google.com/recaptcha/admin
+# import the sql file into your databsae
 
 sudo service apache2 start
-
-u are done
 ```
 
-## notes
-this is a project just for experimenting with php. u can contribute if there are some security issues.
+## Notes
+This is a project meant for tinkering with PHP. You can contribute at any time if you see an issue that needs fixing.
 
-## thanks to
-everyone who has helped me web dev
+## Special thanks to
+Everyone who has helped me web dev
